@@ -17,6 +17,7 @@ Open-source 3D multiplayer game with survial, combat and exploration elements.
 ### Installation
 1. Clone the repository
 ```bash
+1. Clone the repository
    git clone git@github.com:Leipip/Migrant.git   
    cd Migrant
 2. Open the project in Unity Hub
