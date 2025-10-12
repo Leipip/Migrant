@@ -24,31 +24,33 @@ git clone git@github.com:Leipip/Migrant.git
 4. Open the Main scene in Assets/_Project/Scenes/Main.unity
 5. Press Play to test locally!   
 
-Testing Multiplayer Locally
+## Testing Multiplayer Locally
 
-Press Play in Unity Editor
-Click "Host"
-Build the game (Ctrl+B)
-Run the .exe and click "Client"
-Enter "localhost"
+1. Press Play in Unity Editor
+2. Click "Host"
+3. Build the game (Ctrl+B)
+4. Run the .exe and click "Client"
+5. Enter "localhost"
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-Engine: Unity [2022.3.20f1 LTS]
-Networking: Mirror Networking
-Backend: Supabase
-CI/CD: GitHub Actions
-Hosting: Oracle Cloud (planned)
+* Engine: Unity [2022.3.20f1 LTS]
+* Networking: Mirror Networking
+* Backend: Supabase
+* CI/CD: GitHub Actions
+* Hosting: Oracle Cloud (planned)
 
-📁 Project Structure
 
-Assets/_Project/ - Main game code and assets
-Assets/_Project/Scripts/ - All C# scripts
+## 📁 Project Structure
+
+Assets/_Project/ - Main game code and assets\
+Assets/_Project/Scripts/ - All C# scripts\
 Assets/_Project/Prefabs/ - Reusable game objects
 
-🤝 Contributing
+## 🤝 Contributing
 See CONTRIBUTING.md for guidelines. [Coming soon.. give me a day or so]
-📋 Roadmap
+
+##  📋 Roadmap
 - [ ] Basic multiplayer setup with Mirror Networking for player spawn in/movement
 - [ ] Open world environment setup
 - [ ] Basic meele combat system [Chivalry 2 inspired] [Bunch of happening here proper character models ,animations ,combat logic and more networking stuff]
