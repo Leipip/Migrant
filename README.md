@@ -5,9 +5,9 @@ Open-source 3D multiplayer game with survial, combat and exploration elements.
 
 
 ## 🎮 About
-[I will fill this out later I want to get some substance done first]
+[I'll fill this out later, first working game mechanics of the general direction I'm going, progress over talk..]
 
-## 🚀 Getting Started
+## 🚀 Getting Started [Not worth "Getting Started" on this until I say there's something worth trying out](I'll update this README when that's the case)
 
 ### Prerequisites
 - Unity [2022.3.20f1 LTS]
@@ -47,14 +47,11 @@ Assets/_Project/ - Main game code and assets\
 Assets/_Project/Scripts/ - All C# scripts\
 Assets/_Project/Prefabs/ - Reusable game objects
 
-## 🤝 Contributing
-See CONTRIBUTING.md for guidelines. [Coming soon.. give me a day or so]
-
 ##  📋 Roadmap
-- [ ] Basic multiplayer setup with Mirror Networking for player spawn in/movement
-- [ ] Open world environment setup
-- [ ] Basic meele combat system [Chivalry 2 inspired] [Bunch of happening here proper character models ,animations ,combat logic and more networking stuff]
+- [ ] Small scale open world environment & player creation(3rd person, with basic controls)
+- [ ] Simple multiplayer setup with Mirror Networking for a Client-Server architecture
+- [ ] Simple meele combat system [Mordhau inspired] [Bunch of stuff happening here: proper character models ,animations ,combat logic and more networking items to implement]
 - [ ] Persistent servers
 - [ ] Account system
 - [ ] Make the combat system better and add mobs[plus all the elements needed to make them function properly as far as collsions, movement patterns, spawn rates, player detection, ai mob logic, reosurce clean up, etc..]
-- [ ] More to come I'm sure..
+- [ ] More to come whenever here is reached..
