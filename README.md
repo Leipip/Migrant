@@ -5,9 +5,9 @@ Open-source 3D multiplayer game with survial, combat and exploration elements.
 
 
 ## 🎮 About
-[I will fill this out later, I want have some substance first]
+[I'll fill this out later, first working game mechanics of the general direction I'm going, progress over talk..]
 
-## 🚀 Getting Started
+## 🚀 Getting Started [Not worth "Getting Started" on this until I say there's something worth trying out](I'll update this README when that's the case)
 
 ### Prerequisites
 - Unity [2022.3.20f1 LTS]
