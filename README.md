@@ -5,7 +5,7 @@ Open-source 3D multiplayer game with survial, combat and exploration elements.
 
 
 ## 🎮 About
-[I will fill this out later I want to get some substance done first]
+[I will fill this out later, I want have some substance first]
 
 ## 🚀 Getting Started
 
