@@ -1,6 +1,6 @@
 
 
-# Contributing Guidelines
+# Contributing Guidelines[will update this page later]
 
 ## How to Contribute
 1. Fork the repository
@@ -27,8 +27,3 @@ Probably more to come and changes first time doing somthing like this making it 
 2. Test multiplayer functionality
 3. Ensure no console errors
 4. Request review from maintainers
-
-## Need Help?
-- Check existing issues
-- Join our [Discord/Community] https://discord.gg/TssuvHYM
-- Ask in pull request comments
